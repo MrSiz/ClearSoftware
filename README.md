@@ -1,5 +1,5 @@
 # ClearSoftware
-a software developed by MFC
+a software developed with MFC
 
 ##Description
 This project is developed with VS2010. There are somefunctions of this software. Firstly, it can search the files in your computer. What's
